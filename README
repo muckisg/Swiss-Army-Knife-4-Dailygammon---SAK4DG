@@ -1,0 +1,12 @@
+SAK4DG
+=======
+
+What is it?
+------------
+The Swiss Army Knife for DailyGammon is a python script for downloading and managing all matches from the dailygammon site.
+
+What is Dailygammon?
+---------------------
+DailyGammon is postal chess meets backgammon meets the internet. You sign up for one or more matches (most people have several matches going simultaneously) with other players on the site. When you log in, you complete a series of moves (move sequence) in each of your matches, and the server records your moves. Later, your opponent will log in and respond to your moves. When you log in again, those moves will be waiting for you! By this method, over the course of a few weeks you can complete an entire backgammon match, spending only a few minutes a day. 
+
+
